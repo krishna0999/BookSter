@@ -1,0 +1,4 @@
+.env
+
+# Do not include node modules as it is very large and not recommended to push on github
+node_modules
